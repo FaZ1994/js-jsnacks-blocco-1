@@ -12,7 +12,7 @@ function summNumber() {
       }
     }
     else {
-      alert("si prega di non inserire più di 4 cifre");
+      alert("si prega di inserire un numero di 4 cifre");
       break;
       
       

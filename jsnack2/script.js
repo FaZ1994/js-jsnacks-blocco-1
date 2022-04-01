@@ -6,7 +6,7 @@ function readNumbers() {
          userNumbers.push(input.value);
        }
     });
-    alert(`l'array userNumbers ora contiene: [ ${userNumbers} ]`);
+    alert("i numeri dispari sono: " + userNumbers);
   }
 
 document.querySelector('#button2').addEventListener('click', readNumbers)
